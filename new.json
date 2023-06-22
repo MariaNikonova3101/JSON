@@ -1,6 +1,7 @@
 {
 "name": "Mary",
 "last name": "Nikonova",
+"age": 35,
 "pats":["Dog Bob", "Kitty Mimi"],
 "future salary": "1000 USD"
 }
